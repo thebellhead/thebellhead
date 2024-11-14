@@ -82,6 +82,8 @@
 
 ## :bar_chart: GitHub stats
 
+<!-- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thebellhead&theme=dark&background=000000)](https://git.io/streak-stats)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebellhead&hide=jupyter%20notebook,tex,postscript,vim%20script,html,css&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
