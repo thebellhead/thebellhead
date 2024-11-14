@@ -80,10 +80,10 @@
 - [Zenkevich, I.G.; Byvsheva, S.V.; Gerasimov, A.I.; Gladnev, S.V.; Grigoriev, M.V. et. al. Decreasing the uncertainty of gas chromatographic quantification using the solvent’s signal in the method of external standard. Analitika i kontrol’ [Analytics and Control], 2022, vol. 26, no. 2, pp. 141-149.](http://dx.doi.org/10.15826/analitika.2022.26.2.005)
 - [Semenov, V.; Grigoriev, M.; Kirsanov, D.; Panchuk, V. When one equals two: Chemometrics turns Mössbauer spectrometer into X-ray fluorescence one. Spectrochimica Acta Part B: Atomic Spectroscopy, 2024, vol. 213, p. 106878.](https://doi.org/10.1016/j.sab.2024.106878)
 
+<!-- 
 ## :bar_chart: GitHub stats
 
-<!-- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thebellhead&theme=dark&background=000000)](https://git.io/streak-stats)
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebellhead&hide=jupyter%20notebook,tex,postscript,vim%20script,html,css&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
